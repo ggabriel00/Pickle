@@ -28,7 +28,7 @@ pickle.dump(genius,hgp_file)
 hgp_file.close() 
 
 # 7. Open hgp_file
-hgp_file = open('hgp_nbr2.pk11, 'rb') 
+hgp_file = open('hgp_nbr2.pkl', 'rb') 
 
 # 8. Print Staff numbers
 print('Staff: ')
